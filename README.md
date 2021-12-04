@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sepehr Fassihi
-- 👀 I’m intrested in Back-end development
+- 👀 I’m interested in Back-end development
 - 🌱 I’m currently learning laravel , ...
 - 💞️ I’m looking to collaborate on companies and organizations
 - 📫 sepehrfci@gmail.com
